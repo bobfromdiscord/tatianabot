@@ -334,4 +334,4 @@ client.on('message', async message => {
   }
 })
 
-client.login('NzQ0ODA0NzQxNDA5ODAwMjM0.XzojeA.I3WsVGpicG8CRGWUDD9hINplMTU');
+client.login('REDACTED');
